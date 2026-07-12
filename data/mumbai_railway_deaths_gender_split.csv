@@ -1,0 +1,17 @@
+year,cause,men,women,total
+2024,track_crossing,1052,99,1151
+2025,track_crossing,978,85,1063
+2024,falling_from_train,515,55,570
+2025,falling_from_train,470,55,525
+2024,natural_death,490,72,562
+2025,natural_death,486,53,539
+2024,hitting_railway_pole,6,0,6
+2025,hitting_railway_pole,6,0,6
+2024,suicide,117,12,129
+2025,suicide,86,7,93
+2024,falling_platform_gap,12,2,14
+2025,falling_platform_gap,3,3,6
+2024,other_causes,20,1,21
+2025,other_causes,23,0,23
+2024,cause_not_known,8,4,12
+2025,cause_not_known,17,2,19
